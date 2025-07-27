@@ -1,0 +1,12 @@
+{
+  "name": "GBTNetwork",
+  "rpc": ["https://gbtnetwork-render.onrender.com", "https://GBTNetwork"],
+  "chainId": 999,
+  "nativeCurrency": {
+    "name": "GoldBarTether",
+    "symbol": "GBT",
+    "decimals": 18
+  },
+  "blockExplorerUrls": ["https://GBTNetwork/explorer"],
+  "logo": "https://gbtnetwork-render.onrender.com/static/logo.png"
+}
